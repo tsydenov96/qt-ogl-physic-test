@@ -1,3 +1,3 @@
 # qt-ogl-physic-test
 
-![imgur](https://i.imgur.com/wzm9KOK.gif)
+![imgur](https://github.com/tsydenov96/qt-ogl-physic-test/blob/main/smp1.gif)
