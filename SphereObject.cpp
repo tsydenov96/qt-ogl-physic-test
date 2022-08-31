@@ -20,12 +20,12 @@ SphereObject::SphereObject():
     s.transform(transf.toMatrix());
     m_spheres.push_back(s);
 
-//    SphereMesh s2(30.0f, 36, 24);
-//    //s2.setColor(Qt::red);
-//    s2.setFaceColors({Qt::yellow, Qt::green, Qt::magenta, Qt::darkCyan, Qt::blue, Qt::red});
-//    transf.setTranslation(80, 20, 0);
-//    s2.transform(transf.toMatrix());
-//    m_spheres.push_back(s2);
+    SphereMesh s2(30.0f, 36, 24);
+    //s2.setColor(Qt::red);
+    s2.setFaceColors({Qt::yellow, Qt::green, Qt::magenta, Qt::darkCyan, Qt::blue, Qt::red});
+    transf.setTranslation(80, 20, 0);
+    s2.transform(transf.toMatrix());
+    m_spheres.push_back(s2);
 
     //unsigned int NSpheres = m_spheres.size();
 
