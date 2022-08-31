@@ -1,3 +1,3 @@
 # qt-ogl-physic-test
 
-![](https://imgur.com/wzm9KOK)
+![](https://i.imgur.com/wzm9KOK.gif)
